@@ -4,7 +4,8 @@
 This repository contains three exciting Python mini-projects that demonstrate fundamental programming skills and creativity:  
 1. **Snake Game**  
 2. **Tic Tac Toe**  
-3. **Digital Clock**  
+3. **Digital Clock**
+4. **Sudoku Validator**
 
 Each project is designed to enhance your understanding of Python and offers practical exposure to key concepts like game loops, GUI creation, and real-time functionality.  
 
