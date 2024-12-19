@@ -47,6 +47,17 @@ A real-time digital clock that displays the current time in a graphical user int
 
 ---
 
+#### 4. Sudoku Validator  
+The **Sudoku Validator** is a Python program that verifies whether a given 9x9 Sudoku board complies with Sudoku rules.  
+- **Features**:  
+  - Validates rows, columns, and 3x3 sub-boxes for duplicates.  
+  - Efficient use of a `set` for tracking seen numbers.  
+  - Handles incomplete boards with empty cells represented by `.`.  
+- **Technologies Used**: Python.  
+- **How to Run**:  
+  Pass a 9x9 board (list of lists) to the `isValidSudoku` function and get a boolean result indicating validity.
+  
+
 ### Requirements  
 - **Python Version**: 3.9+  
 - **Libraries**:  
