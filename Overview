@@ -20,4 +20,13 @@ The **Digital Clock** project is a minimalistic application that dynamically dis
 - **Customizable Appearance**: Includes options to modify fonts, colors, and layouts.  
 - **Additional Functionalities** (optional): Features like alarms and time zone conversions can be incorporated for advanced functionality.  
 
+---
+
+### Python Sudoku Validator  
+The **Sudoku Validator** project is a Python-based solution that verifies the validity of a 9x9 Sudoku board. It ensures compliance with Sudoku rules using an efficient approach. Key features include:  
+- **Rule Compliance**: Checks for duplicate numbers in rows, columns, and 3x3 sub-boxes.  
+- **Optimized Performance**: Utilizes a `set` to track seen elements, ensuring efficient validation.  
+- **Scalability**: Modular design allows for easy integration into larger Sudoku-solving applications.  
+- **Customizable Extensions** (optional): Additional features like error highlighting and board generation can be added for enhanced functionality.  
+
 These projects are excellent for learning and practicing key programming concepts such as loops, event handling, and library integration while also fostering creativity.
